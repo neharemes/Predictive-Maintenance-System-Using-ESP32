@@ -46,8 +46,8 @@ The circuit diagram represents the hardware implementation and electrical interc
 
 It provides an overview of the hardware connections required for acquiring sensor data and controlling the motor.
 
-[View Circuit_diagram(PDF)]
-(Predictive-Maintenance-System-Using-ESP32/Circuit_diagram/circuit_diagram.pdf)
+[View Circuit Diagram (PDF)](./Predictive-Maintenance-System-Using-ESP32/Circuit_diagram/circuit_diagram.pdf)
+
 ## 4. Hardware Components
 
 | Component | Function |
