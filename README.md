@@ -38,7 +38,8 @@ The block diagram illustrates the overall functional architecture of the propose
 
 The sensor units continuously monitor the motor's operating parameters and provide corresponding signals to the ESP32 for processing and condition evaluation.
 
-View Block_diagram(PDF)
+[View Block_diagram(PDF)]
+(Predictive-Maintenance-System-Using-ESP32/Block_diagram/block_diagram.pdf)
 
 ### 3.2 Circuit Diagram
 
@@ -46,7 +47,8 @@ The circuit diagram represents the hardware implementation and electrical interc
 
 It provides an overview of the hardware connections required for acquiring sensor data and controlling the motor.
 
-View Circuit_diagram(PDF)
+[View Circuit_diagram(PDF)]
+(Predictive-Maintenance-System-Using-ESP32/Circuit_diagram/circuit_diagram.pdf)
 ## 4. Hardware Components
 
 | Component | Function |
